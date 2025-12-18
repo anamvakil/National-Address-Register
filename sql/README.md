@@ -1,3 +1,5 @@
-## SQL Scripts
+Execution Order:
+1. script1_sql – Staging table creation
+2. Script2_sql – Data loading & cleansing
+3. Script3_sql – Normalization to 3NF & constraints
 
-This folder contains T-SQL scripts used for staging, normalization, and table creation as part of the National Address Register project.
