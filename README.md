@@ -33,6 +33,10 @@ The project emphasizes transforming raw address-related data into a structured, 
 
 ```
 ga5-national-address-register/
+├── sql/
+│   ├── script_1.sql
+│   ├── script_2.sql
+│   └── script_3.sql
 ├── erd/
 │   └── ga5_national_address_register_erd.mjs
 ├── report/
@@ -40,8 +44,6 @@ ga5-national-address-register/
 └── README.md
 ```
 
-
----
 
 ## Key Work Completed
 - Designed staging tables to support raw data ingestion
