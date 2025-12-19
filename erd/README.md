@@ -1,4 +1,3 @@
-## Entity Relationship Diagrams (ERD)
 # Entity Relationship Diagram (ERD)  
 ## National Address Register (GA5)
 
