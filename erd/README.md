@@ -16,7 +16,8 @@ The database follows a hub-and-spoke design in which a central address table is 
 - Relationships are enforced using primary and foreign key constraints
 
 ---
-
+<img width="1321" height="774" alt="image" src="https://github.com/user-attachments/assets/f795a225-05dd-457f-ba02-fb32ff8a40cf" />
+---
 ## Entities and Purpose
 
 ### `GA5_AddressNormalized` (Central Table)
@@ -115,6 +116,4 @@ My primary contributions included:
 ---
 
 This ERD serves as the structural blueprint for database implementation and analytical querying.
-
-<img width="1341" height="793" alt="image" src="https://github.com/user-attachments/assets/903cb801-a8be-4744-bfd9-1d8c54ea6e74" />
 
