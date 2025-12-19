@@ -18,6 +18,7 @@ The database follows a hub-and-spoke design in which a central address table is 
 ---
 <img width="1321" height="774" alt="image" src="https://github.com/user-attachments/assets/f795a225-05dd-457f-ba02-fb32ff8a40cf" />
 ---
+
 ## Entities and Purpose
 
 ### `GA5_AddressNormalized` (Central Table)
