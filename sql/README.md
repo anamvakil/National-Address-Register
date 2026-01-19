@@ -1,4 +1,4 @@
-# SQL Scripts – National Address Register (GA5)
+# SQL Scripts – National Address Register
 
 This folder contains the **T-SQL scripts** developed for the *National Address Register (GA5)* data engineering project.  
 The scripts implement a complete database pipeline, from **raw data staging** to **normalization (3NF)** while enforcing **referential integrity**.
