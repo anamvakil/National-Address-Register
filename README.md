@@ -1,4 +1,4 @@
-# National Address Register — Data Engineering Project (GA5)
+# National Address Register — Data Engineering Project
 
 ## Overview
 This project focuses on the design and implementation of a **normalized relational database** for a National Address Register dataset. The work demonstrates core **data engineering concepts**, including staging tables, normalization up to **Third Normal Form (3NF)**, and enforcement of referential integrity using SQL Server.
